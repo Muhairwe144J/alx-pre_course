@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 echo ALX
 <<<<<<< HEAD
 ALX School is so cool!
 =======
 “ALX School”
 >>>>>>> update_script
+=======
+echo "ALX School"
+>>>>>>> 3c4d5cebd4ce03a16a496b77a587546b161f5de9
